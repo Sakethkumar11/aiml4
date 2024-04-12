@@ -3,5 +3,5 @@
 ##[assignment 2](https://github.com/Sakethkumar11/aiml4/blob/main/as2.ipynb)
 ##[assignement_3](https://github.com/Sakethkumar11/aiml4/blob/main/as3.ipynb)
 ##[assignement_4](https://github.com/Sakethkumar11/aiml4/blob/main/Untitled6.ipynb)
-##[assignement_5]((https://github.com/Sakethkumar11/aiml4/blob/main/ass5))
-##[assignement_6]((https://github.com/Sakethkumar11/aiml4/blob/main/ass6.ipynb))
+##[assignement_5](https://github.com/Sakethkumar11/aiml4/blob/main/ass5)
+##[assignement_6](https://github.com/Sakethkumar11/aiml4/blob/main/ass6.ipynb)
